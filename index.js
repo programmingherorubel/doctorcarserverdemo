@@ -6,7 +6,7 @@ const app = express()
 const port = process.env.PORT || 9000
 const accessToken= '8a4e9ef23edf1f410d055e72740c02ae12c17e1222dfc31f90e83b2eaee93917bc5a8e43f06f8252867923d208298df51348d95eb7a705df27e235efc80a47d5'
 
-const uri = `mongodb+srv://doctorcar:ABG4yksvLNwdeZoS@cluster0.tdolxqi.mongodb.net/?retryWrites=true&w=majority`;
+const uri = `mongodb+srv://doctorcar:ABG4yksvLNwdeZoS@cluster0.tdolxqi.mongodb.net/?retryWrites=true&w=majority`
 
 
 
